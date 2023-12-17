@@ -18,11 +18,11 @@ const Hero = () => {
               <h2 className="mt-3 mb-3">I&apos;m Andarg Worku</h2>
               <h5 className="mb-4">Full stack Developer and Video editor</h5>
               <p>
-              I'm a skilled software developer with experience in TypeScript and
+              I am a skilled software developer with experience in TypeScript and
         JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
+        Three.js. I am a quick learner and collaborate closely with clients to
         create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        real-world problems. Lets work together to bring your ideas to life!
               </p>
               <div className="mt-5">
                 <button className="primary__btn">
