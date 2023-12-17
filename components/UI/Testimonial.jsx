@@ -34,7 +34,7 @@ const Testimonial = () => {
                 <div className={`${classes.testimonial__client}`}>
                   <Image
                     alt="client-img"
-                    src="/images/hero.jpg"
+                    src="/images/hero-img02.jpg"
                     width="50"
                     height="50"
                     className=" rounded-2"
@@ -47,12 +47,9 @@ const Testimonial = () => {
                 </div>
 
                 <p>
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi saepe eveniet dolores molestias nisi ullam quis
-                  delectus inventore, quidem beatae ipsa pariatur doloribus
-                  corrupti! Quisquam expedita minima, neque et quis, fugiat hic
-                  iste possimus vitae perspiciatis consequatur quod modi
-                  dignissimos.
+                Great work on optimizing the website for mobile devices!
+                 The changes you made have significantly improved the user experience. 
+                 Looking forward to seeing more of your contributions
                 </p>
               </div>
 
@@ -60,7 +57,7 @@ const Testimonial = () => {
                 <div className={`${classes.testimonial__client}`}>
                   <Image
                     alt="client-img"
-                    src="/images/hero.jpg"
+                    src="/images/ava-3.jpg"
                     width="50"
                     height="50"
                     className=" rounded-2"
@@ -68,17 +65,13 @@ const Testimonial = () => {
 
                   <div>
                     <h6>Teklu </h6>
-                    <h6>networking</h6>
+                    <h6>network engineer</h6>
                   </div>
                 </div>
 
                 <p>
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi saepe eveniet dolores molestias nisi ullam quis
-                  delectus inventore, quidem beatae ipsa pariatur doloribus
-                  corrupti! Quisquam expedita minima, neque et quis, fugiat hic
-                  iste possimus vitae perspiciatis consequatur quod modi
-                  dignissimos.
+                Great work on implementing the new design! The responsiveness and performance improvements are top-notch. 
+                Your attention to detail really shows in the user experience. Looking forward to seeing this live
                 </p>
               </div>
 
@@ -86,7 +79,7 @@ const Testimonial = () => {
                 <div className={`${classes.testimonial__client}`}>
                   <Image
                     alt="client-img"
-                    src="/images/hero.jpg"
+                    src="/images/ava-2.jpg"
                     width="50"
                     height="50"
                     className=" rounded-2"
@@ -98,12 +91,8 @@ const Testimonial = () => {
                   </div>
                 </div>
                 <p>
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi saepe eveniet dolores molestias nisi ullam quis
-                  delectus inventore, quidem beatae ipsa pariatur doloribus
-                  corrupti! Quisquam expedita minima, neque et quis, fugiat hic
-                  iste possimus vitae perspiciatis consequatur quod modi
-                  dignissimos.
+                Great work on implementing the new design! The responsiveness looks fantastic and the page load speed has noticeably improved. The navigation feels more intuitive now. 
+                Thanks for addressing all the reported bugs and errors. Looking forward to the deployment
                 </p>
               </div>
             </Slider>

@@ -1,19 +1,19 @@
 const portfolio = [
   {
     id: "01",
-    title: "restaurant website",
-    img: "/images/portfolio-01.jpg",
-    category: "Mobile App",
-    keyword:  ["Mobile", "App", "UI-UX"],
-    liveUrl: "#",
+    title: "todo list website",
+    img: "/images/todo.jpeg",
+    category: "Full stack website",
+    keyword:  ["Full stack website", "Full stack website", "UI-UX"],
+    liveUrl: "https://andargworku.github.io/todoApp/",
   },
 
   {
     id: "02",
     title: "Workout Tracker App",
     img: "/images/portfolio-02.jpg",
-    category: "Mobile App",
-    keyword: ["Mobile", "App", "UI-UX"],
+    category: "Full stack website",
+    keyword: ["Full stack website", "Full stack website", "UI-UX"],
     liveUrl: "#",
   },
 
@@ -30,8 +30,8 @@ const portfolio = [
     id: "04",
     title: "E-commerce",
     img: "/images/portfolio-04.jpg",
-    category: "Mobile App",
-    keyword:  ["web", "Web design", "UI-UX"],
+    category: "Full stack website",
+    keyword:  ["Full stack website", "Full stack website", "UI-UX"],
     liveUrl: "https://wa-livid.vercel.app/Home",
   },
 

@@ -1,12 +1,18 @@
-import React from "react";
+import React,{useRef} from "react";
 import classes from "../../styles/form.module.css";
 
+import emailjs from '@emailjs/browser';
 const Form = () => {
-  const submitHandler = () => {
-    e.preventDefault();
-  };
+    const form = useRef();
+  
+    const sendEmail = (e) => {
+     e.preventDefault();
+  
+     emailjs.sendForm('service_zrhxt3g', 'template_221ffco', form.current, '0MuITMuotm1mFEvv1')
+     e.target.reset()
+    };
   return (
-    <form className={`${classes.form}`} onSubmit={submitHandler}>
+    <form className={`${classes.form}`}  ref={form} onSubmit={sendEmail}>
       <div className={`${classes.form__group}`}>
         <input type="text" placeholder="Your Name" required />
       </div>
@@ -25,3 +31,6 @@ const Form = () => {
 };
 
 export default Form;
+
+
+
