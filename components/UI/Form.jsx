@@ -12,7 +12,7 @@ const Form = () => {
      e.target.reset()
     };
   return (
-    <form className={`${classes.form}`}  ref={form} onSubmit={sendEmail}>
+    <form  ref={form} onSubmit={sendEmail} className={`${classes.form}`}  >
       <div className={`${classes.form__group}`}>
         <input type="text" placeholder="Your Name" required />
       </div>

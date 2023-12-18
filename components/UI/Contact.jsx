@@ -42,13 +42,13 @@ const Contact = () => {
               <Link href="#">
                 <i className="ri-youtube-line"></i>
               </Link>
-              <Link href="https://github.com/AndargWorku?tab=repositories">
+              <Link href="https://github.com/AndargWorku?tab=repositories" target="_black">
                 <i className="ri-github-line"></i>
               </Link>
               <Link href="#">
                 <i className="ri-facebook-line"></i>
               </Link>
-              <Link href="https://www.linkedin.com/in/andarg-worku-bb957823b/">
+              <Link href="https://www.linkedin.com/in/andarg-worku-bb957823b/" target="_black">
                 <i className="ri-linkedin-line"></i>
               </Link>
               <Link href="#">

@@ -30,7 +30,7 @@ const Hero = () => {
                 </button>
 
                 <button className="secondary__btn">
-                  <Link href="/images/cv.pdf" className="btn">Download CV</Link>
+                  <Link href="/images/cv.pdf" className="btn" target="_black">Download CV</Link>
                 </button>
               </div>
             </div>
