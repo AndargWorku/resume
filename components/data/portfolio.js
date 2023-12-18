@@ -10,11 +10,11 @@ const portfolio = [
 
   {
     id: "02",
-    title: "Workout Tracker App",
+    title: "Learing managment system",
     img: "/images/portfolio-02.jpg",
-    category: "Full stack website",
-    keyword: ["Full stack website", "Full stack website", "UI-UX"],
-    liveUrl: "#",
+    category: "Web Design",
+    keyword: ["web", "Web design", "UI-UX"],
+    liveUrl: "https://online-rsi3.vercel.app/",
   },
 
   {
