@@ -79,6 +79,31 @@ const portfolio = [
     keyword: ["Web", "Web design", "UI-UX"],
     liveUrl: "https://cars-three-psi.vercel.app/home",
   },
+
+  {
+    id: "10",
+    title: "Nike shoes  ",
+    img: "/images/nike.png",
+    category: "Web Design",
+    keyword: ["Web", "Web design", "UI-UX"],
+    liveUrl: "https://nike-six-blush.vercel.app",
+  },
+  {
+    id: "11",
+    title: "E-commerce dashboard by chakra  ",
+    img: "/images/dash.png",
+    category: "Web Design",
+    keyword: ["Web", "Web design", "UI-UX"],
+    liveUrl: "https://dshboard-by-chakra.vercel.app",
+  },
+  {
+    id: "12",
+    title: "login & logout in local storage by chakra  ",
+    img: "/images/lo.png",
+    category: "Web Design",
+    keyword: ["Web", "Web design", "UI-UX"],
+    liveUrl: "https://login-chakra-sigma.vercel.app",
+  },
 ];
 
 export default portfolio;
