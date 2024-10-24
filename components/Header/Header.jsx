@@ -79,7 +79,7 @@ const Header = () => {
               <div className={`${classes.nav__right}`}>
                 <p className=" d-flex align-items-center gap-2 mb-0">
                   {" "}
-                  <i className="ri-phone-line"></i> +251712533797{" "}
+                  <i className="ri-phone-line"></i> 0918883711{" "}
                 </p>
               </div>
             </div>

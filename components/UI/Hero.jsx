@@ -16,7 +16,7 @@ const Hero = () => {
             <div className={`${classes.hero__content}`}>
               <SectionSubtitle subtitle="Hello" />
               <h2 className="mt-3 mb-3">I&apos;m Andarg Worku</h2>
-              <h5 className="mb-4">Full stack Developer and Video editor</h5>
+              <h5 className="mb-4">Full stack Developer and Mobile App(React Native) Developer</h5>
               <p>
               I am a skilled software developer with experience in TypeScript and
         JavaScript, and expertise in frameworks like React, Node.js, and

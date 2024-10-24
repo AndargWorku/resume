@@ -12,7 +12,7 @@ const Services = () => {
           <Col lg="6" md="6">
             <div className={`${classes.services__container}`}>
               <div>
-                <ServicesItem title="System development" icon="ri-apps-line" />
+                <ServicesItem title="Mobile App Development" icon="ri-apps-line" />
 
                 <ServicesItem title="Web Development" icon="ri-computer-line" />
               </div>
