@@ -18,11 +18,10 @@ const Hero = () => {
               <h2 className="mt-3 mb-3">I&apos;m Andarg Worku</h2>
               <h5 className="mb-4">Full stack Developer and Mobile App(React Native) Developer</h5>
               <p>
-              I am a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I am a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Lets work together to bring your ideas to life!
+              Experienced Full-Stack Developer specializing in the MERN stack, with a strong focus on building high performance, scalable applications. Proficient in mobile app development using React Native, creating
+responsive and user-friendly solutions. Skilled in end-to-end development from front-end design to
+back-end architecture. Known for delivering efficient code and collaborative project execution
+
               </p>
               <div className="mt-5">
                 <button className="primary__btn">

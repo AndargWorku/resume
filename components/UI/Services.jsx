@@ -26,12 +26,10 @@ const Services = () => {
 
           <Col lg="6" md="6" className={`${classes.service__title}`}>
             <SectionSubtitle subtitle="What I do" />
-            <h3 className="mb-0 mt-4">Better Full stack developer,</h3>
+            <h3 className="mb-0 mt-4 text-white">Better Full stack developer,</h3>
             <h3 className="mb-4">Better Experience</h3>
             <p>
-            As a dedicated software developer, my passion for creating innovative 
-            solutions is matched only by my commitment to continuous learning and growth. With a strong foundation in languages such as Python, and JavaScript, I thrive in collaborative environments where I can apply my problem-solving skills to deliver impactful results. I am driven by the opportunity to tackle complex challenges and am constantly seeking new ways to expand my technical expertise. My goal is to contribute to cutting-edge projects that push the boundaries of what technology can achieve,
-             while also mentoring and inspiring the next generation of developers.
+            I am a dedicated software developer with a passion for creating impactful solutions and a commitment to continuous learning. Skilled in TypScript and JavaScript, I excel in collaborative environments that leverage my problem-solving abilities. I aim to contribute to innovative projects and inspire the next generation of developers.
             </p>
           </Col>
         </Row>

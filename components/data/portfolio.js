@@ -104,6 +104,14 @@ const portfolio = [
     keyword: ["Web", "Web design", "UI-UX"],
     liveUrl: "https://login-chakra-sigma.vercel.app",
   },
+  {
+    id: "13",
+    title: "Gebeya e-commerce",
+    img: "/images/gebeya.png",
+    category: "Full stack website",
+    keyword:  ["Full stack website", "Full stack website", "UI-UX"],
+    liveUrl: "https://gebeya-p9r3.vercel.app/",
+  },
 ];
 
 export default portfolio;
